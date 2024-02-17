@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: "Poppins",sans-serif;
+    overflow-x: hidden;
+}
+
+.nav-dim{
+    width: 100%;
+}
+
+#nav-decoration{
+    background-color:#343a40 !important;
+    color: #fff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #fff !important;
+}
+
+.first{
+    height: 93vh;
+    /*width: 100vw;*/
+    background-color:#343a40;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    align-items: center;
+}
+
+#jumbo-hero{
+    background-color:#343a40;
+    color: #fff;
+}
+
+/*
+.divider{
+    border-top:1px solid #00abe4;
+    margin: 3rem 0;
+}*/
+
+.about-image{
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
+}
