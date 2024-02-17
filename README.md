@@ -30,6 +30,10 @@ cd personal-portfolio
 
 5. Optionally, deploy your portfolio to a web hosting service to make it accessible online.
 
+## Sample Screenshot(Home Page):
+![image](https://github.com/JeremiahRanen7/Bootstrap-Portfolio/assets/141173239/ec2ca511-748a-43df-839a-55dc63b6d9e4)
+
+
 ## Acknowledgements
 
 - This project utilizes the Bootstrap framework for building the user interface.
